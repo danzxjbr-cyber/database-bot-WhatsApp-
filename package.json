@@ -1,0 +1,19 @@
+{
+  "name": "danzx-db-panel",
+  "version": "1.0.0",
+  "description": "Danzx Official Security DB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "bot": "node bot.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+      }
